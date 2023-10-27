@@ -4,7 +4,7 @@ let img;
 
 function preload() {
     song = loadSound("audio/sample-visualisation.mp3");
-    img = loadImage("image/pinkcloud.jpg");
+    img = loadImage("image/pinkyclouds.jpeg");
 }
 
 function setup() {
