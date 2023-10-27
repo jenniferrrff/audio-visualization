@@ -5,7 +5,7 @@ let bgImage;  // Variable to hold the sunset image
 
 function preload() {
   song = loadSound('audio/sample-visualisation.mp3');
-  bgImage = loadImage('sunset.jpg');  // Load the sunset image
+  bgImage = loadImage('image/sunset.avif');  // Load the sunset image
 }
 
 function setup() {
